@@ -42,3 +42,10 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge"/>
 </div>
+
+##
+<div align="center"
+	<a href="https://github.com/BoredRyuzaki">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=BoredRyuzaki&background=1E1E2E&currStreakLabel=F5E0DC&currStreakNum=F9E2AF&sideLabels=CDD6F4&sideNums=F5E0DC&dates=F5E0DC&"/>
+	</a>
+</div>
