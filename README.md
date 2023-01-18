@@ -39,8 +39,9 @@
 <h3 align="center"> Environment </h4>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge"/>
+	<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" alt="Arch Linux Badge"/>
 	<img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge"/>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge" alt="IntelliJ IDEA Badge"/>
 </div>
 
 ##
